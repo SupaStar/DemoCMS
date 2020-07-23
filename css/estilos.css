@@ -1,0 +1,164 @@
+#main-header {
+    background: #ffffff;
+    color: white;
+    height: 80px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+}
+#img{
+    width: 200px !important;
+
+}
+.tam{
+    width: 200px !important;
+}
+.tituloPerfiles {
+    float: left;
+    height: 46px;
+}
+
+.separador {
+    float: left;
+    border-left: 1px solid #ccc;
+    margin-left: 15px;
+    padding-left: 15px;
+    font-size: 11px;
+    height: 42px;
+}
+
+.tablitainfo {
+    margin-bottom: 20px;
+}
+
+#header a {
+    color: #9999B3;
+}
+
+#site-nav {
+    list-style: none !important;
+    margin-left: -25px;
+}
+
+.dd-listener {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.liSin {
+    list-style: none;
+    margin-left: -30px;
+}
+
+.liSin a {
+    color: black;
+}
+
+.dropDowns {
+    margin-left: -10px;
+}
+
+.padBod {
+    padding-bottom: 40px;
+}
+
+.oculto {
+    display: none;
+}
+
+.contenido {
+    margin-left: 1%;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #666;
+    background: #EFEFEF;
+    font-size: 1em;
+    line-height: 1.5em;
+    padding-top: 20px;
+}
+
+.textoIndx {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+.tablitaIndx {
+    width: 100%;
+}
+
+.footer {
+    background: #222222;
+    color: white;
+    width: 100%;
+    height: 400px;
+    padding-top: 90px;
+}
+
+.linksF {
+    color: #83D0D1;
+}
+
+.fot {
+    padding-top: 70px;
+}
+
+.tablas {
+    margin-left: 1%;
+}
+
+#comentarios {
+    height: 90px;
+}
+
+.busqueda input {
+    border-color: #009CE0;
+}
+
+.busqueda button {
+    border-color: #009CE0;
+}
+
+.inputsReg {
+    width: 72%;
+}
+
+.selectModal {
+    margin-right: 15px;
+}
+
+.inputsModal span {
+    margin-right: 15PX;
+}
+
+.menuEditar {
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.menuEditar ul {
+    padding-left: 0;
+    line-height: normal;
+    list-style: none;
+}
+
+.menuEditar li {
+    background-color: #ddd;
+}
+
+.tab-body {
+    border-color: #ddd;
+    background-color: #fff;
+    border-width: 0 4px;
+    border-style: solid;
+}
+
+.sinMargin {
+    margin-bottom: 0 !important;
+}
+
+.mapa {
+    padding: 30px 0;
+    background-color: white;
+}
